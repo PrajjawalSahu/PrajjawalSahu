@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=prajjawalsahu)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-<p align=center>
+<center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjawalsahu)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</center>
 <!--
 ![GitHub metrics](https://metrics.lecoq.io/prajjawalsahu)  
 -->
@@ -38,17 +38,18 @@ Here are some ideas to get you started:
 <img align=center src="https://github-readme-stats.vercel.app/api?username=PrajjawalSahu&&show_icons=true&title_color=e6e6e6&icon_color=e6e6e6&text_color=e6e6e6&bg_color=50,004e92,000428">
 </p>
 -->
+<hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/prajjawal-sahu-7372791b5//" alt="Linkedin"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"></a>
-    <a href="mailto:prajjawalsahu2001@gmail.com" alt="Contact me"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"></a>
-    <a href="https://prajjawalsahu.github.io/Portfolio2020/" alt="My site"><img src="https://cdn0.iconfinder.com/data/icons/education-135/512/3-512.png"></a>
-    <a href="https://www.instagram.com/prajjawalsahu/" alt="Instagram"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png"></a>
+    <a href="https://www.linkedin.com/in/prajjawal-sahu-7372791b5//" alt="Linkedin"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" height='20'></a>
+    <a href="mailto:prajjawalsahu2001@gmail.com" alt="Contact me"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" height='20'></a>
+    <a href="https://prajjawalsahu.github.io/Portfolio2020/" alt="My site"><img src="https://cdn0.iconfinder.com/data/icons/education-135/512/3-512.png" height='20'></a>
+    <a href="https://www.instagram.com/prajjawalsahu/" alt="Instagram"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" height='20'></a>
   </p>
 
-  <p align="center">
+  <center>
     ![Profile views](https://gpvc.arturio.dev/prajjawalsahu) 
-  </p>
+  </center>
 </p>
