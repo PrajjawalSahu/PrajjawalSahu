@@ -23,9 +23,14 @@ Here are some ideas to get you started:
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=prajjawalsahu)](https://github.com/ryo-ma/github-profile-trophy)
 -->
+<!--
 <center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjawalsahu)](https://github.com/anuraghazra/github-readme-stats)
 </center>
+-->
+  <p align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjawalsahu">
+  </p>
 <!--
 ![GitHub metrics](https://metrics.lecoq.io/prajjawalsahu)  
 -->
@@ -49,9 +54,7 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/prajjawalsahu/" alt="Instagram"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" height='20'></a>
   </p>
 
-  <center>
-    ![Profile views](https://gpvc.arturio.dev/prajjawalsahu) 
-  </center>
+
   <p align="center">
       <img align="center" src="https://gpvc.arturio.dev/prajjawalsahu">
   </p>
