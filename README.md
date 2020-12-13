@@ -52,4 +52,9 @@ Here are some ideas to get you started:
   <center>
     ![Profile views](https://gpvc.arturio.dev/prajjawalsahu) 
   </center>
+  <p align="center">
+    <a href="https://gpvc.arturio.dev/prajjawalsahu">
+      <img align="center" src="https://gpvc.arturio.dev/prajjawalsahu">
+    </a>
+  </p>
 </p>
