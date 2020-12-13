@@ -53,8 +53,6 @@ Here are some ideas to get you started:
     ![Profile views](https://gpvc.arturio.dev/prajjawalsahu) 
   </center>
   <p align="center">
-    
       <img align="center" src="https://gpvc.arturio.dev/prajjawalsahu">
-    
   </p>
 </p>
